@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:30:03
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:31:04
 
 // 站点配置
 export const siteConfig = {
@@ -71,6 +71,17 @@ export const websiteData = [
       "免费"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=huggingface.co"
+  },
+  {
+    "id": 1778056259882,
+    "name": "Uptimerobot",
+    "description": "抱脸保活机器人",
+    "url": "https://dashboard.uptimerobot.com/monitors",
+    "category": "author",
+    "tags": [
+      "工具，免费"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=dashboard.uptimerobot.com"
   },
   {
     "id": 1751807806262,
