@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 22:17:45
+// 网站数据 - 通过管理后台更新于 2026/5/6 22:37:35
 
 // 站点配置
 export const siteConfig = {
@@ -139,6 +139,17 @@ export const websiteData = [
       "域名"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.spaceship.com"
+  },
+  {
+    "id": 1778078247608,
+    "name": "Orbstack",
+    "description": "Mac Docker",
+    "url": "https://orbstack.dev/",
+    "category": "author",
+    "tags": [
+      "虚拟机"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=orbstack.dev"
   },
   {
     "id": 1778057565197,
