@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 14:58:29
+// 网站数据 - 通过管理后台更新于 2026/5/6 15:14:15
 
 // 站点配置
 export const siteConfig = {
@@ -85,14 +85,14 @@ export const categories = [
   },
   {
     "id": "recommended",
-    "name": "常用推荐",
-    "icon": "/assets/product_store_item_award_top_rating_like_star_recomendation_icon_258332.png",
+    "name": "飞牛NAS",
+    "icon": "/assets/131653e77diydliidp9sin.png",
     "special": false,
     "subcategories": []
   },
   {
     "id": "dev_tools",
-    "name": "开发工具",
+    "name": "Synology",
     "icon": "/assets/Xcode--Streamline-Svg-Logos.png",
     "special": false,
     "subcategories": []
