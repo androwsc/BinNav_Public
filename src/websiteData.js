@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 15:26:39
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:26:55
 
 // 站点配置
 export const siteConfig = {
@@ -36,6 +36,17 @@ export const websiteData = [
       "DDOS"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.cloudflare.com"
+  },
+  {
+    "id": 1778055885734,
+    "name": "Tailscale",
+    "description": "内网穿透",
+    "url": "https://login.tailscale.com/admin/machines",
+    "category": "author",
+    "tags": [
+      "内网穿透"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=login.tailscale.com"
   },
   {
     "id": 1751807806262,
