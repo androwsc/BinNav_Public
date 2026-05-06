@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 17:01:34
+// 网站数据 - 通过管理后台更新于 2026/5/6 17:09:16
 
 // 站点配置
 export const siteConfig = {
@@ -129,38 +129,15 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=zzmac.com"
   },
   {
-    "id": 1778057185358,
-    "name": "飞牛WYSE3040",
-    "description": "飞牛NAS",
-    "url": "http://100.66.66.30",
-    "category": "recommended",
+    "id": 1778058551593,
+    "name": "弹幕",
+    "description": "部署平台Netlify",
+    "url": "https://danmu.iptv.us.kg",
+    "category": "author",
     "tags": [
-      "NAS",
-      "内网"
+      "单面"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.30"
-  },
-  {
-    "id": 1778057083777,
-    "name": "飞牛DELL7060",
-    "description": "飞牛NAS",
-    "url": "http://100.66.66.70",
-    "category": "recommended",
-    "tags": [
-      "NAS，内网"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.70"
-  },
-  {
-    "id": 1778056992443,
-    "name": "Synology NAS",
-    "description": "群晖内网服务",
-    "url": "http://100.66.66.9:5000",
-    "category": "dev_tools",
-    "tags": [
-      "NAS，内网"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.9"
+    "icon": "https://icon.nbvil.com/favicon?url=danmu.iptv.us.kg"
   },
   {
     "id": 1778057565197,
@@ -284,6 +261,84 @@ export const websiteData = [
       "XXX"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=bitporn.eu"
+  },
+  {
+    "id": 1778058319856,
+    "name": "drpyS",
+    "description": "部署平台Vercel",
+    "url": "https://drpy.iptv.us.kg",
+    "category": "category_1778058003813",
+    "tags": [
+      "影视"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=drpy.iptv.us.kg"
+  },
+  {
+    "id": 1778058359646,
+    "name": "Lunatv",
+    "description": "部署平台Huggingface",
+    "url": "https://tv.870627.xyz",
+    "category": "category_1778058003813",
+    "tags": [
+      "影视"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=tv.870627.xyz"
+  },
+  {
+    "id": 1778058466674,
+    "name": "tmdb-proxy",
+    "description": "部署平台Vercel",
+    "url": "https://tmdb.iptv.us.kg",
+    "category": "category_1778058003813",
+    "tags": [
+      "影视"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=us.kg"
+  },
+  {
+    "id": 1778058512044,
+    "name": "Omnibox",
+    "description": "",
+    "url": "https://omnibox.naschina.ddns-ip.net",
+    "category": "category_1778058003813",
+    "tags": [
+      "影视"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=omnibox.naschina.ddns-ip.net"
+  },
+  {
+    "id": 1778057185358,
+    "name": "飞牛WYSE3040",
+    "description": "飞牛NAS",
+    "url": "http://100.66.66.30",
+    "category": "recommended",
+    "tags": [
+      "NAS",
+      "内网"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.30"
+  },
+  {
+    "id": 1778057083777,
+    "name": "飞牛DELL7060",
+    "description": "飞牛NAS",
+    "url": "http://100.66.66.70",
+    "category": "recommended",
+    "tags": [
+      "NAS，内网"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.70"
+  },
+  {
+    "id": 1778056992443,
+    "name": "Synology NAS",
+    "description": "群晖内网服务",
+    "url": "http://100.66.66.9:5000",
+    "category": "dev_tools",
+    "tags": [
+      "NAS，内网"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.9"
   }
 ];
 
