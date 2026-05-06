@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:46:26
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:47:29
 
 // 站点配置
 export const siteConfig = {
@@ -143,7 +143,7 @@ export const websiteData = [
   {
     "id": 1778057083777,
     "name": "飞牛DELL7060",
-    "description": "飞牛NAS内网穿透",
+    "description": "飞牛NAS",
     "url": "http://100.66.66.70",
     "category": "recommended",
     "tags": [
