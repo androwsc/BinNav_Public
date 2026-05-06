@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 22:42:34
+// 网站数据 - 通过管理后台更新于 2026/5/6 22:43:00
 
 // 站点配置
 export const siteConfig = {
@@ -172,6 +172,17 @@ export const websiteData = [
       "工具"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=vercel.com"
+  },
+  {
+    "id": 1778078571237,
+    "name": "Homebrew",
+    "description": "mac安装Homebrew及docker",
+    "url": "https://baijiahao.baidu.com/s?id=1768839842909355660&wfr=spider&for=pc",
+    "category": "author",
+    "tags": [
+      "工具"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=baidu.com"
   },
   {
     "id": 1778057565197,
