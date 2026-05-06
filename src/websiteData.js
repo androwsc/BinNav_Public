@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 17:09:16
+// 网站数据 - 通过管理后台更新于 2026/5/6 17:09:48
 
 // 站点配置
 export const siteConfig = {
@@ -286,7 +286,7 @@ export const websiteData = [
   },
   {
     "id": 1778058466674,
-    "name": "tmdb-proxy",
+    "name": "Tmdb-Proxy",
     "description": "部署平台Vercel",
     "url": "https://tmdb.iptv.us.kg",
     "category": "category_1778058003813",
