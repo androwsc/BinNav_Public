@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:32:12
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:36:19
 
 // 站点配置
 export const siteConfig = {
@@ -50,8 +50,8 @@ export const websiteData = [
   },
   {
     "id": 1778056105636,
-    "name": "edgetunnel",
-    "description": "sub",
+    "name": "Edgetunnel",
+    "description": "科学上网",
     "url": "https://hop.hop.qzz.io/admin",
     "category": "author",
     "tags": [
@@ -61,7 +61,7 @@ export const websiteData = [
   },
   {
     "id": 1778056182042,
-    "name": "huggingface",
+    "name": "Huggingface",
     "description": "AI",
     "url": "https://huggingface.co/androwsc",
     "category": "author",
