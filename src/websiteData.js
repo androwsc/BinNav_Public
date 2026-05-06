@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:58:21
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:59:13
 
 // 站点配置
 export const siteConfig = {
@@ -297,6 +297,13 @@ export const categories = [
     "subcategories": []
   },
   {
+    "id": "category_1778057329300",
+    "name": "Private Tracker",
+    "icon": "/assets/digg_icon-icons.com_75645.png",
+    "special": false,
+    "subcategories": []
+  },
+  {
     "id": "recommended",
     "name": "飞牛NAS",
     "icon": "/assets/131653e77diydliidp9sin.png",
@@ -307,13 +314,6 @@ export const categories = [
     "id": "dev_tools",
     "name": "Synology",
     "icon": "/assets/synology_logo_icon_144820.png",
-    "special": false,
-    "subcategories": []
-  },
-  {
-    "id": "category_1778057329300",
-    "name": "Private Tracker",
-    "icon": "/assets/digg_icon-icons.com_75645.png",
     "special": false,
     "subcategories": []
   }
