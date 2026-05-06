@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 22:48:50
+// 网站数据 - 通过管理后台更新于 2026/5/6 22:57:29
 
 // 站点配置
 export const siteConfig = {
@@ -445,13 +445,6 @@ export const categories = [
     "subcategories": []
   },
   {
-    "id": "category_1778057329300",
-    "name": "Private Tracker",
-    "icon": "/assets/digg_icon-icons.com_75645.png",
-    "special": false,
-    "subcategories": []
-  },
-  {
     "id": "category_1778058003813",
     "name": "TV source",
     "icon": "/assets/imdb_video_7043.png",
@@ -469,6 +462,13 @@ export const categories = [
     "id": "dev_tools",
     "name": "Synology",
     "icon": "/assets/synology_logo_icon_144820.png",
+    "special": false,
+    "subcategories": []
+  },
+  {
+    "id": "category_1778057329300",
+    "name": "Private Tracker",
+    "icon": "/assets/digg_icon-icons.com_75645.png",
     "special": false,
     "subcategories": []
   }
