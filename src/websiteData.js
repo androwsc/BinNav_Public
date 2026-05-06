@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 22:47:43
+// 网站数据 - 通过管理后台更新于 2026/5/6 22:48:50
 
 // 站点配置
 export const siteConfig = {
@@ -460,7 +460,7 @@ export const categories = [
   },
   {
     "id": "recommended",
-    "name": "fnOS NAS",
+    "name": "FnOS NAS",
     "icon": "/assets/131653e77diydliidp9sin.png",
     "special": false,
     "subcategories": []
