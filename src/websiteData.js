@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 17:23:15
+// 网站数据 - 通过管理后台更新于 2026/5/6 17:24:25
 
 // 站点配置
 export const siteConfig = {
@@ -354,6 +354,18 @@ export const websiteData = [
       "内网"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=100.66.66.9"
+  },
+  {
+    "id": 1778059456334,
+    "name": "DS Audio",
+    "description": "",
+    "url": "https://yinyue.cc.cd",
+    "category": "dev_tools",
+    "tags": [
+      "NAS",
+      "音乐"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=yinyue.cc.cd"
   }
 ];
 
