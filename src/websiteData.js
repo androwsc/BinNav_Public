@@ -1,11 +1,11 @@
-// 网站数据 - 通过管理后台更新于 2026/5/7 00:55:51
+// 网站数据 - 通过管理后台更新于 2026/5/7 00:58:48
 
 // 站点配置
 export const siteConfig = {
   "siteName": "Modej Website Nav",
-  "siteTitle": "Model Website Nav",
+  "siteTitle": "Modej Website Nav",
   "siteLogo": "/assets/logo.png",
-  "siteDescription": "MODEJ导航页面",
+  "siteDescription": "Modej Website Nav",
   "icpRecord": "",
   "publicSecurityRecord": "",
   "publicSecurityRecordUrl": ""
