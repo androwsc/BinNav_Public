@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:52:12
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:52:57
 
 // 站点配置
 export const siteConfig = {
@@ -161,6 +161,17 @@ export const websiteData = [
       "NAS，内网"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=100.66.66.9"
+  },
+  {
+    "id": 1778057565197,
+    "name": "学校",
+    "description": "",
+    "url": "https://pt.btschool.club",
+    "category": "category_1778057329300",
+    "tags": [
+      "PT"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=pt.btschool.club"
   },
   {
     "id": 1778057387904,
