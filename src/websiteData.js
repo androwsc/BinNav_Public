@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:28:50
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:30:03
 
 // 站点配置
 export const siteConfig = {
@@ -58,6 +58,19 @@ export const websiteData = [
       "sub"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=qzz.io"
+  },
+  {
+    "id": 1778056182042,
+    "name": "huggingface",
+    "description": "AI",
+    "url": "https://huggingface.co/androwsc",
+    "category": "author",
+    "tags": [
+      "AI",
+      "docker",
+      "免费"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=huggingface.co"
   },
   {
     "id": 1751807806262,
