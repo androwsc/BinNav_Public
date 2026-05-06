@@ -394,7 +394,7 @@ function HomePage() {
                   rel="noopener noreferrer"
                   className="text-blue-600 hover:text-blue-800 transition-colors"
                 >
-                  Androwsc
+                  ANDROWSC
                 </a>
               </div>
 
