@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:53:26
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:54:43
 
 // 站点配置
 export const siteConfig = {
@@ -216,6 +216,28 @@ export const websiteData = [
       "PT"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=carpt.net"
+  },
+  {
+    "id": 1778057645509,
+    "name": "自由农场",
+    "description": "",
+    "url": "https://pt.0ff.cc",
+    "category": "category_1778057329300",
+    "tags": [
+      "PT"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=pt.0ff.cc"
+  },
+  {
+    "id": 1778057679071,
+    "name": "劳改所",
+    "description": "",
+    "url": "https://ptlgs.org/",
+    "category": "category_1778057329300",
+    "tags": [
+      "PT"
+    ],
+    "icon": "/assets/logo.png"
   }
 ];
 
