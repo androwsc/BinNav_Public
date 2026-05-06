@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 22:40:22
+// 网站数据 - 通过管理后台更新于 2026/5/6 22:41:19
 
 // 站点配置
 export const siteConfig = {
@@ -161,6 +161,17 @@ export const websiteData = [
       "域名"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=us.kg"
+  },
+  {
+    "id": 1778078473897,
+    "name": "Vercel",
+    "description": "vercel",
+    "url": "https://vercel.com/androwscs-projects",
+    "category": "author",
+    "tags": [
+      "工具"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=vercel.com"
   },
   {
     "id": 1778057565197,
