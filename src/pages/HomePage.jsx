@@ -166,7 +166,7 @@ function HomePage() {
             <div className="lg:sticky lg:top-24 space-y-6">
               <div className="bg-white/80 backdrop-blur-sm rounded-2xl shadow-lg border border-white/20 p-6">
                 <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wider mb-4">
-                  网站分类
+                  Website Classification
                 </h3>
                 <nav className="space-y-1">
                   {categories.map((category) => (
