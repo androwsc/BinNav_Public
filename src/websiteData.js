@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 22:57:29
+// 网站数据 - 通过管理后台更新于 2026/5/6 23:18:22
 
 // 站点配置
 export const siteConfig = {
@@ -185,6 +185,121 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=baidu.com"
   },
   {
+    "id": 1778059211933,
+    "name": "MoviePilot",
+    "description": "",
+    "url": "https://mp.naschina.ddns-ip.net",
+    "category": "category_1778058003813",
+    "tags": [
+      "影视"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=mp.naschina.ddns-ip.net"
+  },
+  {
+    "id": 1778058551593,
+    "name": "弹幕",
+    "description": "部署平台Netlify",
+    "url": "https://danmu.iptv.us.kg",
+    "category": "category_1778058003813",
+    "tags": [
+      "弹幕"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=danmu.iptv.us.kg"
+  },
+  {
+    "id": 1778058319856,
+    "name": "drpyS",
+    "description": "部署平台Vercel",
+    "url": "https://drpy.iptv.us.kg",
+    "category": "category_1778058003813",
+    "tags": [
+      "影视"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=drpy.iptv.us.kg"
+  },
+  {
+    "id": 1778058359646,
+    "name": "Lunatv",
+    "description": "部署平台Huggingface",
+    "url": "https://tv.870627.xyz",
+    "category": "category_1778058003813",
+    "tags": [
+      "影视"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=tv.870627.xyz"
+  },
+  {
+    "id": 1778058466674,
+    "name": "Tmdb-Proxy",
+    "description": "部署平台Vercel",
+    "url": "https://tmdb.iptv.us.kg",
+    "category": "category_1778058003813",
+    "tags": [
+      "影视",
+      "代理"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=us.kg"
+  },
+  {
+    "id": 1778058512044,
+    "name": "Omnibox",
+    "description": "",
+    "url": "https://omnibox.naschina.ddns-ip.net",
+    "category": "category_1778058003813",
+    "tags": [
+      "影视"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=omnibox.naschina.ddns-ip.net"
+  },
+  {
+    "id": 1778057185358,
+    "name": "飞牛WYSE3040",
+    "description": "飞牛NAS",
+    "url": "http://100.66.66.30",
+    "category": "recommended",
+    "tags": [
+      "NAS",
+      "内网"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.30"
+  },
+  {
+    "id": 1778057083777,
+    "name": "飞牛DELL7060",
+    "description": "飞牛NAS",
+    "url": "http://100.66.66.70",
+    "category": "recommended",
+    "tags": [
+      "NAS",
+      "内网"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.70"
+  },
+  {
+    "id": 1778056992443,
+    "name": "Synology NAS",
+    "description": "群晖内网服务",
+    "url": "http://100.66.66.9:5000",
+    "category": "dev_tools",
+    "tags": [
+      "NAS",
+      "内网"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.9"
+  },
+  {
+    "id": 1778059456334,
+    "name": "DS Audio",
+    "description": "",
+    "url": "https://yinyue.cc.cd",
+    "category": "dev_tools",
+    "tags": [
+      "NAS",
+      "音乐"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=yinyue.cc.cd"
+  },
+  {
     "id": 1778057565197,
     "name": "学校",
     "description": "",
@@ -317,121 +432,6 @@ export const websiteData = [
       "论坛"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.javbus.com"
-  },
-  {
-    "id": 1778059211933,
-    "name": "MoviePilot",
-    "description": "",
-    "url": "https://mp.naschina.ddns-ip.net",
-    "category": "category_1778058003813",
-    "tags": [
-      "影视"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=mp.naschina.ddns-ip.net"
-  },
-  {
-    "id": 1778058551593,
-    "name": "弹幕",
-    "description": "部署平台Netlify",
-    "url": "https://danmu.iptv.us.kg",
-    "category": "category_1778058003813",
-    "tags": [
-      "弹幕"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=danmu.iptv.us.kg"
-  },
-  {
-    "id": 1778058319856,
-    "name": "drpyS",
-    "description": "部署平台Vercel",
-    "url": "https://drpy.iptv.us.kg",
-    "category": "category_1778058003813",
-    "tags": [
-      "影视"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=drpy.iptv.us.kg"
-  },
-  {
-    "id": 1778058359646,
-    "name": "Lunatv",
-    "description": "部署平台Huggingface",
-    "url": "https://tv.870627.xyz",
-    "category": "category_1778058003813",
-    "tags": [
-      "影视"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=tv.870627.xyz"
-  },
-  {
-    "id": 1778058466674,
-    "name": "Tmdb-Proxy",
-    "description": "部署平台Vercel",
-    "url": "https://tmdb.iptv.us.kg",
-    "category": "category_1778058003813",
-    "tags": [
-      "影视",
-      "代理"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=us.kg"
-  },
-  {
-    "id": 1778058512044,
-    "name": "Omnibox",
-    "description": "",
-    "url": "https://omnibox.naschina.ddns-ip.net",
-    "category": "category_1778058003813",
-    "tags": [
-      "影视"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=omnibox.naschina.ddns-ip.net"
-  },
-  {
-    "id": 1778057185358,
-    "name": "飞牛WYSE3040",
-    "description": "飞牛NAS",
-    "url": "http://100.66.66.30",
-    "category": "recommended",
-    "tags": [
-      "NAS",
-      "内网"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.30"
-  },
-  {
-    "id": 1778057083777,
-    "name": "飞牛DELL7060",
-    "description": "飞牛NAS",
-    "url": "http://100.66.66.70",
-    "category": "recommended",
-    "tags": [
-      "NAS",
-      "内网"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.70"
-  },
-  {
-    "id": 1778056992443,
-    "name": "Synology NAS",
-    "description": "群晖内网服务",
-    "url": "http://100.66.66.9:5000",
-    "category": "dev_tools",
-    "tags": [
-      "NAS",
-      "内网"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.9"
-  },
-  {
-    "id": 1778059456334,
-    "name": "DS Audio",
-    "description": "",
-    "url": "https://yinyue.cc.cd",
-    "category": "dev_tools",
-    "tags": [
-      "NAS",
-      "音乐"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=yinyue.cc.cd"
   }
 ];
 
@@ -440,7 +440,7 @@ export const categories = [
   {
     "id": "author",
     "name": "Website",
-    "icon": "/assets/logo.png",
+    "icon": "/assets/github_alt_macos_bigsur_icon_190138.png",
     "special": true,
     "subcategories": []
   },
