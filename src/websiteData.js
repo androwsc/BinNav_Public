@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:37:21
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:39:45
 
 // 站点配置
 export const siteConfig = {
@@ -116,6 +116,17 @@ export const websiteData = [
       "CDN"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=console.tencentcloud.com"
+  },
+  {
+    "id": 1778056785550,
+    "name": "黑苹果社区",
+    "description": "专注于黑苹果安装系统教程驱动软件",
+    "url": "https://zzmac.com",
+    "category": "author",
+    "tags": [
+      "工具"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=zzmac.com"
   }
 ];
 
