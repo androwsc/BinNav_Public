@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:36:19
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:37:08
 
 // 站点配置
 export const siteConfig = {
@@ -95,16 +95,27 @@ export const websiteData = [
     "icon": "/assets/logo.png"
   },
   {
+    "id": 1778056582930,
+    "name": "吾爱破解",
+    "description": "BBS",
+    "url": "https://www.52pojie.cn/portal.php",
+    "category": "author",
+    "tags": [
+      "工具，免费"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=52pojie.cn"
+  },
+  {
     "id": 1751807806262,
     "name": "EdgeOne",
     "description": "全球首个支持中国访问的免费CDN",
-    "url": "https://edgeone.ai/zh",
-    "category": "friend_links",
+    "url": "https://console.tencentcloud.com/edgeone/zones",
+    "category": "author",
     "tags": [
       "网站",
       "CDN"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=edgeone.ai"
+    "icon": "https://icon.nbvil.com/favicon?url=console.tencentcloud.com"
   }
 ];
 
