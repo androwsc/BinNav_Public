@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 17:11:36
+// 网站数据 - 通过管理后台更新于 2026/5/6 17:14:04
 
 // 站点配置
 export const siteConfig = {
@@ -129,17 +129,6 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=zzmac.com"
   },
   {
-    "id": 1778058551593,
-    "name": "弹幕",
-    "description": "部署平台Netlify",
-    "url": "https://danmu.iptv.us.kg",
-    "category": "author",
-    "tags": [
-      "单面"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=danmu.iptv.us.kg"
-  },
-  {
     "id": 1778057565197,
     "name": "学校",
     "description": "",
@@ -261,6 +250,17 @@ export const websiteData = [
       "XXX"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=bitporn.eu"
+  },
+  {
+    "id": 1778058551593,
+    "name": "弹幕",
+    "description": "部署平台Netlify",
+    "url": "https://danmu.iptv.us.kg",
+    "category": "category_1778058003813",
+    "tags": [
+      "弹幕"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=danmu.iptv.us.kg"
   },
   {
     "id": 1778058319856,
