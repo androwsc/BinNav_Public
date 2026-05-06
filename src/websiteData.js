@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:49:48
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:50:23
 
 // 站点配置
 export const siteConfig = {
@@ -172,6 +172,17 @@ export const websiteData = [
       "PT"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=kp.m-team.cc"
+  },
+  {
+    "id": 1778057422650,
+    "name": "肉丝",
+    "description": "",
+    "url": "https://rousi.pro",
+    "category": "category_1778057329300",
+    "tags": [
+      "PT"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=rousi.pro"
   }
 ];
 
