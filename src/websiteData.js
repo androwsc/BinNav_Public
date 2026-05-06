@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:44:43
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:46:26
 
 // 站点配置
 export const siteConfig = {
@@ -129,13 +129,36 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=zzmac.com"
   },
   {
+    "id": 1778057185358,
+    "name": "飞牛WYSE3040",
+    "description": "飞牛NAS",
+    "url": "http://100.66.66.30",
+    "category": "author",
+    "tags": [
+      "NAS",
+      "内网"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.30"
+  },
+  {
+    "id": 1778057083777,
+    "name": "飞牛DELL7060",
+    "description": "飞牛NAS内网穿透",
+    "url": "http://100.66.66.70",
+    "category": "recommended",
+    "tags": [
+      "NAS，内网"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.70"
+  },
+  {
     "id": 1778056992443,
     "name": "Synology NAS",
     "description": "群晖内网服务",
     "url": "http://100.66.66.9:5000",
     "category": "dev_tools",
     "tags": [
-      "工具，内网穿透，NAS"
+      "NAS，内网"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=100.66.66.9"
   }
