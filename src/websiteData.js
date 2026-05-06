@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:37:08
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:37:21
 
 // 站点配置
 export const siteConfig = {
@@ -103,7 +103,7 @@ export const websiteData = [
     "tags": [
       "工具，免费"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=52pojie.cn"
+    "icon": "https://icon.nbvil.com/favicon?url=www.52pojie.cn"
   },
   {
     "id": 1751807806262,
