@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:49:01
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:49:48
 
 // 站点配置
 export const siteConfig = {
@@ -161,6 +161,17 @@ export const websiteData = [
       "NAS，内网"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=100.66.66.9"
+  },
+  {
+    "id": 1778057387904,
+    "name": "馒头",
+    "description": "",
+    "url": "https://kp.m-team.cc",
+    "category": "category_1778057329300",
+    "tags": [
+      "PT"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=kp.m-team.cc"
   }
 ];
 
