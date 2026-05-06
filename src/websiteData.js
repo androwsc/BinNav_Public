@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:31:04
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:32:12
 
 // 站点配置
 export const siteConfig = {
@@ -82,6 +82,17 @@ export const websiteData = [
       "工具，免费"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=dashboard.uptimerobot.com"
+  },
+  {
+    "id": 1778056306712,
+    "name": "Hidencloud",
+    "description": "游戏服务器",
+    "url": "https://dash.hidencloud.com/service/207468/manage",
+    "category": "author",
+    "tags": [
+      "VPS"
+    ],
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1751807806262,
