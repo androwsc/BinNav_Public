@@ -1,11 +1,11 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 14:33:03
+// 网站数据 - 通过管理后台更新于 2026/5/6 14:33:57
 
 // 站点配置
 export const siteConfig = {
-  "siteName": "ANDROWSC-NAV",
-  "siteTitle": "ANDROWSC - 导航",
+  "siteName": "MODEJ-NAV",
+  "siteTitle": "MODEJ - 导航",
   "siteLogo": "/assets/logo.png",
-  "siteDescription": "二进制导航页面，精选优质站点",
+  "siteDescription": "MODEJ导航页面.",
   "icpRecord": "",
   "publicSecurityRecord": "",
   "publicSecurityRecordUrl": ""
