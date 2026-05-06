@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 22:37:35
+// 网站数据 - 通过管理后台更新于 2026/5/6 22:40:22
 
 // 站点配置
 export const siteConfig = {
@@ -152,6 +152,17 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=orbstack.dev"
   },
   {
+    "id": 1778078420935,
+    "name": "DigitalPlat Domains",
+    "description": "DigitalPlat Domains免费域名",
+    "url": "https://register.us.kg",
+    "category": "author",
+    "tags": [
+      "域名"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=us.kg"
+  },
+  {
     "id": 1778057565197,
     "name": "学校",
     "description": "",
@@ -273,6 +284,17 @@ export const websiteData = [
       "XXX"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=bitporn.eu"
+  },
+  {
+    "id": 1778078314250,
+    "name": "Javbus",
+    "description": "BBS",
+    "url": "https://www.javbus.com/forum/",
+    "category": "category_1778057329300",
+    "tags": [
+      "论坛"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.javbus.com"
   },
   {
     "id": 1778059211933,
