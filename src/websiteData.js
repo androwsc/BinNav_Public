@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:39:45
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:43:19
 
 // 站点配置
 export const siteConfig = {
@@ -127,6 +127,17 @@ export const websiteData = [
       "工具"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=zzmac.com"
+  },
+  {
+    "id": 1778056992443,
+    "name": "Synology NAS",
+    "description": "群晖内网服务",
+    "url": "http://100.66.66.9:5000",
+    "category": "dev_tools",
+    "tags": [
+      "工具，内网穿透，NAS"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.9"
   }
 ];
 
