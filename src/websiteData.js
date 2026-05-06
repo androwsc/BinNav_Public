@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:55:16
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:58:21
 
 // 站点配置
 export const siteConfig = {
@@ -249,6 +249,41 @@ export const websiteData = [
       "PT"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=raingfh.top"
+  },
+  {
+    "id": 1778057769620,
+    "name": "PT时间",
+    "description": "",
+    "url": "https://www.pttime.org/",
+    "category": "category_1778057329300",
+    "tags": [
+      "PT"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.pttime.org"
+  },
+  {
+    "id": 1778057858374,
+    "name": "Happyfappy",
+    "description": "",
+    "url": "https://www.happyfappy.org/",
+    "category": "category_1778057329300",
+    "tags": [
+      "PT",
+      "XXX"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.happyfappy.org"
+  },
+  {
+    "id": 1778057892683,
+    "name": "Bitporn",
+    "description": "",
+    "url": "https://bitporn.eu",
+    "category": "category_1778057329300",
+    "tags": [
+      "PT",
+      "XXX"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=bitporn.eu"
   }
 ];
 
