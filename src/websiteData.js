@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 17:20:37
+// 网站数据 - 通过管理后台更新于 2026/5/6 17:21:36
 
 // 站点配置
 export const siteConfig = {
@@ -130,18 +130,6 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=zzmac.com"
   },
   {
-    "id": 1778059211933,
-    "name": "MoviePilot",
-    "description": "",
-    "url": "http://100.66.66.70:3000/",
-    "category": "author",
-    "tags": [
-      "影视",
-      "内网"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.70"
-  },
-  {
     "id": 1778057565197,
     "name": "学校",
     "description": "",
@@ -263,6 +251,18 @@ export const websiteData = [
       "XXX"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=bitporn.eu"
+  },
+  {
+    "id": 1778059211933,
+    "name": "MoviePilot",
+    "description": "",
+    "url": "http://100.66.66.70:3000/",
+    "category": "category_1778058003813",
+    "tags": [
+      "影视",
+      "内网"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.70"
   },
   {
     "id": 1778058551593,
