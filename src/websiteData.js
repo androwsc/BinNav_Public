@@ -1,8 +1,8 @@
-// 网站数据 - 通过管理后台更新于 2026/5/7 00:12:09
+// 网站数据 - 通过管理后台更新于 2026/5/7 00:12:37
 
 // 站点配置
 export const siteConfig = {
-  "siteName": "Website Nav",
+  "siteName": "Modej Website Nav",
   "siteTitle": "Model Website Nav",
   "siteLogo": "/assets/logo.png",
   "siteDescription": "MODEJ导航页面",
