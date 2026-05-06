@@ -133,7 +133,7 @@ function HomePage() {
                 <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400" size={16} />
                 <Input
                   type="text"
-                  placeholder="🔍 站内搜索 - 试试输入'设计工具'或'前端开发'..."
+                  placeholder="🔍 站内搜索 "
                   value={searchTerm}
                   onChange={(e) => setSearchTerm(e.target.value)}
                   className="pl-10 h-10 border-gray-300 focus:border-blue-500 focus:ring-blue-500"
@@ -234,10 +234,10 @@ function HomePage() {
                 </nav>
               </div>
 
-              {/* 站点服务 */}
+              {/*  Web Service */}
               <div className="bg-white/80 backdrop-blur-sm rounded-2xl shadow-lg border border-white/20 p-6">
                 <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wider mb-4">
-                  站点服务
+                  Web Service
                 </h3>
                 <div className="space-y-3">
                   <button 
@@ -245,11 +245,11 @@ function HomePage() {
                     className="flex items-center p-3 bg-gray-50 hover:bg-gray-100 rounded-lg transition-colors group w-full"
                   >
                     <div className="w-8 h-8 bg-green-100 rounded-lg flex items-center justify-center mr-3">
-                      <span className="text-green-600 text-sm">📝</span>
+                      <span className="text-green-600 text-sm">🛜</span>
                     </div>
                     <div className="text-left">
-                      <div className="text-sm font-medium text-gray-900 group-hover:text-green-600">站点提交</div>
-                      <div className="text-xs text-gray-500">推荐优质网站</div>
+                      <div className="text-sm font-medium text-gray-900 group-hover:text-green-600">New Website</div>
+                      <div className="text-xs text-gray-500">Links</div>
                     </div>
                   </button>
                   
@@ -265,8 +265,8 @@ function HomePage() {
                       <span className="text-orange-600 text-sm">ℹ️</span>
                     </div>
                     <div>
-                      <div className="text-sm font-medium text-gray-900 group-hover:text-orange-600">关于导航</div>
-                      <div className="text-xs text-gray-500">网站介绍说明</div>
+                      <div className="text-sm font-medium text-gray-900 group-hover:text-orange-600">About Modej Nav</div>
+                      <div className="text-xs text-gray-500">Website description</div>
                     </div>
                   </a>
                 </div>
