@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:50:23
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:51:41
 
 // 站点配置
 export const siteConfig = {
@@ -133,7 +133,7 @@ export const websiteData = [
     "name": "飞牛WYSE3040",
     "description": "飞牛NAS",
     "url": "http://100.66.66.30",
-    "category": "author",
+    "category": "recommended",
     "tags": [
       "NAS",
       "内网"
