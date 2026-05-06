@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 23:18:22
+// 网站数据 - 通过管理后台更新于 2026/5/6 23:20:29
 
 // 站点配置
 export const siteConfig = {
@@ -374,7 +374,7 @@ export const websiteData = [
     "tags": [
       "PT"
     ],
-    "icon": "/assets/logo.png"
+    "icon": "https://icon.nbvil.com/favicon?url=ptlgs.org"
   },
   {
     "id": 1778057715089,
