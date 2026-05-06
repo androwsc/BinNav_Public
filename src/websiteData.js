@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:26:55
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:28:50
 
 // 站点配置
 export const siteConfig = {
@@ -47,6 +47,17 @@ export const websiteData = [
       "内网穿透"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=login.tailscale.com"
+  },
+  {
+    "id": 1778056105636,
+    "name": "edgetunnel",
+    "description": "sub",
+    "url": "https://hop.hop.qzz.io/admin",
+    "category": "author",
+    "tags": [
+      "sub"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=qzz.io"
   },
   {
     "id": 1751807806262,
