@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 14:49:52
+// 网站数据 - 通过管理后台更新于 2026/5/6 14:52:31
 
 // 站点配置
 export const siteConfig = {
@@ -27,7 +27,7 @@ export const websiteData = [
     "id": 41,
     "name": "GitHub Projects",
     "description": "作者开源项目",
-    "url": "https://github.com/sindricn",
+    "url": "https://github.com/androwsc",
     "category": "author",
     "tags": [
       "开源项目"
