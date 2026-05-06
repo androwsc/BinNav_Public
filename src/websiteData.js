@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:51:41
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:52:12
 
 // 站点配置
 export const siteConfig = {
@@ -183,6 +183,17 @@ export const websiteData = [
       "PT"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=rousi.pro"
+  },
+  {
+    "id": 1778057530662,
+    "name": "壹PT",
+    "description": "",
+    "url": "https://1ptba.com",
+    "category": "category_1778057329300",
+    "tags": [
+      "PT"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=1ptba.com"
   }
 ];
 
