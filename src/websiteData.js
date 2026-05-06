@@ -1,9 +1,9 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 14:31:39
+// 网站数据 - 通过管理后台更新于 2026/5/6 14:33:03
 
 // 站点配置
 export const siteConfig = {
-  "siteName": "BinNav",
-  "siteTitle": "BinNav - 导航",
+  "siteName": "ANDROWSC-NAV",
+  "siteTitle": "ANDROWSC - 导航",
   "siteLogo": "/assets/logo.png",
   "siteDescription": "二进制导航页面，精选优质站点",
   "icpRecord": "",
