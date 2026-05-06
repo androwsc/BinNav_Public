@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 16:54:43
+// 网站数据 - 通过管理后台更新于 2026/5/6 16:55:16
 
 // 站点配置
 export const siteConfig = {
@@ -238,6 +238,17 @@ export const websiteData = [
       "PT"
     ],
     "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1778057715089,
+    "name": "雨",
+    "description": "",
+    "url": "https://raingfh.top/",
+    "category": "category_1778057329300",
+    "tags": [
+      "PT"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=raingfh.top"
   }
 ];
 
