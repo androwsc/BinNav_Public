@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 17:24:25
+// 网站数据 - 通过管理后台更新于 2026/5/6 22:17:45
 
 // 站点配置
 export const siteConfig = {
@@ -128,6 +128,17 @@ export const websiteData = [
       "工具"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=zzmac.com"
+  },
+  {
+    "id": 1778077062107,
+    "name": "Spaceship",
+    "description": "",
+    "url": "https://www.spaceship.com/zh/",
+    "category": "author",
+    "tags": [
+      "域名"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.spaceship.com"
   },
   {
     "id": 1778057565197,
