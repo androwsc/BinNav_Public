@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 17:14:04
+// 网站数据 - 通过管理后台更新于 2026/5/6 17:18:00
 
 // 站点配置
 export const siteConfig = {
@@ -101,7 +101,8 @@ export const websiteData = [
     "url": "https://www.52pojie.cn/portal.php",
     "category": "author",
     "tags": [
-      "工具，免费"
+      "工具",
+      "免费"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.52pojie.cn"
   },
@@ -325,7 +326,8 @@ export const websiteData = [
     "url": "http://100.66.66.70",
     "category": "recommended",
     "tags": [
-      "NAS，内网"
+      "NAS",
+      "内网"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=100.66.66.70"
   },
@@ -336,7 +338,8 @@ export const websiteData = [
     "url": "http://100.66.66.9:5000",
     "category": "dev_tools",
     "tags": [
-      "NAS，内网"
+      "NAS",
+      "内网"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=100.66.66.9"
   }
