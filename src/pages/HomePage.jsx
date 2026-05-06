@@ -378,23 +378,23 @@ function HomePage() {
             <div className="text-sm text-gray-500 space-y-2">
               {/* 版权信息 */}
               <div>
-                <span>© 2025 </span>
+                <span>© 2026 </span>
                 <a
-                  href="https://i.bincore.cn"
+                  href="https://nav.modej.eu.org"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-600 hover:text-blue-800 transition-colors"
                 >
-                  Sindri
+                  Modej.eu.org
                 </a>
                 <span className="mx-2">·</span>
                 <a
-                  href="https://github.com/sindricn/BinNav"
+                  href="https://github.com/androwsc"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-600 hover:text-blue-800 transition-colors"
                 >
-                  MIT License
+                  Androwsc
                 </a>
               </div>
 
