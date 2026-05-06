@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 15:17:57
+// 网站数据 - 通过管理后台更新于 2026/5/6 15:26:25
 
 // 站点配置
 export const siteConfig = {
@@ -12,17 +12,6 @@ export const siteConfig = {
 };
 
 export const websiteData = [
-  {
-    "id": 1751807882512,
-    "name": "个人站点",
-    "description": "作者个人站点展示",
-    "url": "https://i.bincore.cn/",
-    "category": "author",
-    "tags": [
-      "个人站点"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=i.bincore.cn"
-  },
   {
     "id": 41,
     "name": "GitHub Projects",
@@ -39,7 +28,7 @@ export const websiteData = [
     "name": "Cloudflare",
     "description": "Cloudflare以向客户提供网站安全管理、性能优化及相关的技术支持为主要业务。",
     "url": "https://www.cloudflare.com/",
-    "category": "recommended",
+    "category": "author",
     "tags": [
       "免费",
       "网站",
@@ -47,18 +36,6 @@ export const websiteData = [
       "DDOS"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.cloudflare.com"
-  },
-  {
-    "id": 1751813515058,
-    "name": "Termius",
-    "description": "跨平台SSH客户端，随时随地安全管理服务器。",
-    "url": "https://termius.com/",
-    "category": "dev_tools",
-    "tags": [
-      "SSH",
-      "开发"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=termius.com"
   },
   {
     "id": 1751807806262,
