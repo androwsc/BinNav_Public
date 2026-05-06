@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/7 00:58:48
+// 网站数据 - 通过管理后台更新于 2026/5/7 01:57:02
 
 // 站点配置
 export const siteConfig = {
@@ -461,7 +461,7 @@ export const categories = [
   {
     "id": "dev_tools",
     "name": "Synology",
-    "icon": "/assets/synology_logo_icon_144820.png",
+    "icon": "/assets/IMG_0031.png",
     "special": false,
     "subcategories": []
   },
