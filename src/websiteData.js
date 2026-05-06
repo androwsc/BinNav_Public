@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/6 17:21:36
+// 网站数据 - 通过管理后台更新于 2026/5/6 17:23:15
 
 // 站点配置
 export const siteConfig = {
@@ -256,13 +256,12 @@ export const websiteData = [
     "id": 1778059211933,
     "name": "MoviePilot",
     "description": "",
-    "url": "http://100.66.66.70:3000/",
+    "url": "https://mp.naschina.ddns-ip.net",
     "category": "category_1778058003813",
     "tags": [
-      "影视",
-      "内网"
+      "影视"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.70"
+    "icon": "https://icon.nbvil.com/favicon?url=mp.naschina.ddns-ip.net"
   },
   {
     "id": 1778058551593,
@@ -304,7 +303,8 @@ export const websiteData = [
     "url": "https://tmdb.iptv.us.kg",
     "category": "category_1778058003813",
     "tags": [
-      "影视"
+      "影视",
+      "代理"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=us.kg"
   },
