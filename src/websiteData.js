@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/7 08:59:58
+// 网站数据 - 通过管理后台更新于 2026/5/7 09:01:08
 
 // 站点配置
 export const siteConfig = {
@@ -154,7 +154,7 @@ export const websiteData = [
   {
     "id": 1778078420935,
     "name": "DigitalPlat Domains",
-    "description": "DigitalPlat Domains免费域名",
+    "description": "DigitalPlat Domains免费域名，每年4月需刷新。",
     "url": "https://register.us.kg",
     "category": "author",
     "tags": [
