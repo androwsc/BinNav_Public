@@ -1,11 +1,11 @@
-// 网站数据 - 通过管理后台更新于 2026/5/7 09:33:36
+// 网站数据 - 通过管理后台更新于 2026/5/7 09:56:05
 
 // 站点配置
 export const siteConfig = {
-  "siteName": "Modej Website Nav",
-  "siteTitle": "Modej Website Nav",
+  "siteName": "MODEJ",
+  "siteTitle": "MODEJ - 导航",
   "siteLogo": "/assets/logo.png",
-  "siteDescription": "Modej Website Nav",
+  "siteDescription": "MODEJ导航页面",
   "icpRecord": "",
   "publicSecurityRecord": "",
   "publicSecurityRecordUrl": ""
@@ -40,7 +40,7 @@ export const websiteData = [
   {
     "id": 1778055885734,
     "name": "Tailscale",
-    "description": "内网穿透",
+    "description": "Tailscale 是一种基于 WireGuard 的虚拟组网工具。",
     "url": "https://login.tailscale.com/admin/machines",
     "category": "author",
     "tags": [
@@ -51,18 +51,18 @@ export const websiteData = [
   {
     "id": 1778056105636,
     "name": "Edgetunnel",
-    "description": "科学上网",
+    "description": "edgetunnel 是一个基于 CF Workers/Pages 平台的边缘计算隧道解密方案。它能够高效地处理网络流量，并提供强大的管理面板和灵活的节点配置能力。",
     "url": "https://hop.hop.qzz.io/admin",
     "category": "author",
     "tags": [
-      "sub"
+      "隧道"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=qzz.io"
   },
   {
     "id": 1778056182042,
     "name": "Huggingface",
-    "description": "AI",
+    "description": "Hugging Face人工智能开源社区与模型托管平台。",
     "url": "https://huggingface.co/androwsc",
     "category": "author",
     "tags": [
@@ -75,7 +75,7 @@ export const websiteData = [
   {
     "id": 1778056259882,
     "name": "Uptimerobot",
-    "description": "抱脸保活机器人",
+    "description": "UptimeRobot是一款国外知名的在线网站和服务器监控工具，用于实时监控服务可用性并在异常时发送告警通知。",
     "url": "https://dashboard.uptimerobot.com/monitors",
     "category": "author",
     "tags": [
@@ -86,7 +86,7 @@ export const websiteData = [
   {
     "id": 1778056306712,
     "name": "Hidencloud",
-    "description": "游戏服务器",
+    "description": "喜欢\n\n不喜欢\nHidenCloud 是一个综合性的平台，专注于为游戏爱好者和社区创作者提供高性能的游戏服务器托管服务。",
     "url": "https://dash.hidencloud.com/service/207468/manage",
     "category": "author",
     "tags": [
@@ -97,7 +97,7 @@ export const websiteData = [
   {
     "id": 1778056582930,
     "name": "吾爱破解",
-    "description": "BBS",
+    "description": "吾爱破解论坛（英文名：Love Crack Group，简称LCG）创立于2008年3月13日，是一个专注于软件安全与病毒分析的技术交流社区，涵盖PC软件安全、移动安全等领域，由软件加密解密及反病毒爱好者共同维护。",
     "url": "https://www.52pojie.cn/portal.php",
     "category": "author",
     "tags": [
@@ -132,7 +132,7 @@ export const websiteData = [
   {
     "id": 1778077062107,
     "name": "Spaceship",
-    "description": "",
+    "description": "Spaceship 是一家 ICANN 认证的域名注册商。",
     "url": "https://www.spaceship.com/zh/",
     "category": "author",
     "tags": [
@@ -143,7 +143,7 @@ export const websiteData = [
   {
     "id": 1778078247608,
     "name": "Orbstack",
-    "description": "Mac Docker",
+    "description": "OrbStack，是一个现代的轻量级工具，用于在 macOS 上运行 Linux 容器和虚拟机的替代方案，类似于 Docker Desktop，但性能更高且资源占用更少。",
     "url": "https://orbstack.dev/",
     "category": "author",
     "tags": [
@@ -154,7 +154,7 @@ export const websiteData = [
   {
     "id": 1778078420935,
     "name": "DigitalPlat Domains",
-    "description": "DigitalPlat Domains免费域名，每年4月需刷新。",
+    "description": "DigitalPlat FreeDomain 是一个非营利免费域名项目，每年4月需刷新。",
     "url": "https://register.us.kg",
     "category": "author",
     "tags": [
@@ -165,7 +165,7 @@ export const websiteData = [
   {
     "id": 1778078473897,
     "name": "Vercel",
-    "description": "vercel",
+    "description": "Vercel 是一家专注于前端应用和无服务器部署的美国云开发平台公司，提供全球 CDN 加速、自动化部署和 Serverless 功能。",
     "url": "https://vercel.com/androwscs-projects",
     "category": "author",
     "tags": [
@@ -194,6 +194,17 @@ export const websiteData = [
       "域名"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=nic.eu.org"
+  },
+  {
+    "id": 1778118937593,
+    "name": "Netlify",
+    "description": "Netlify 是一个功能强大的 静态网站托管平台，它不仅提供了简单的网站部署功能，还集成了许多现代化的开发工具和服务，帮助开发者更高效地构建、部署和管理网站。",
+    "url": "https://app.netlify.com/teams/androwsc/projects",
+    "category": "author",
+    "tags": [
+      "工具"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=app.netlify.com"
   },
   {
     "id": 1778059211933,
