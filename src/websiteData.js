@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/7 09:57:27
+// 网站数据 - 通过管理后台更新于 2026/5/7 09:59:41
 
 // 站点配置
 export const siteConfig = {
@@ -209,7 +209,7 @@ export const websiteData = [
   {
     "id": 1778059211933,
     "name": "MoviePilot",
-    "description": "",
+    "description": "MoviePilot是一款开源的NAS媒体库自动化管理工具，可实现电影和电视剧的自动搜索、下载、整理和管理。",
     "url": "https://mp.naschina.ddns-ip.net",
     "category": "category_1778058003813",
     "tags": [
@@ -265,7 +265,7 @@ export const websiteData = [
   {
     "id": 1778058512044,
     "name": "Omnibox",
-    "description": "",
+    "description": "支持 Docker 一键部署的全聚合家庭影视系统。",
     "url": "https://omnibox.naschina.ddns-ip.net",
     "category": "category_1778058003813",
     "tags": [
@@ -324,7 +324,7 @@ export const websiteData = [
   {
     "id": 1778057565197,
     "name": "学校",
-    "description": "",
+    "description": "中文系私人 BT 影视综合站点。",
     "url": "https://pt.btschool.club",
     "category": "category_1778057329300",
     "tags": [
@@ -335,7 +335,7 @@ export const websiteData = [
   {
     "id": 1778057387904,
     "name": "馒头",
-    "description": "",
+    "description": "綜合性討論區，擁有多元化討論版塊及組合群組，提供天下時事及資訊探討。",
     "url": "https://kp.m-team.cc",
     "category": "category_1778057329300",
     "tags": [
