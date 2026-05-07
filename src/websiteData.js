@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/7 09:56:05
+// 网站数据 - 通过管理后台更新于 2026/5/7 09:57:27
 
 // 站点配置
 export const siteConfig = {
@@ -187,7 +187,7 @@ export const websiteData = [
   {
     "id": 1778115590723,
     "name": "Eu.org",
-    "description": "免费域名",
+    "description": "eu.org是一个自1996年起提供免费注册的公益性域名服务，主要面向个人和非盈利组织。",
     "url": "https://nic.eu.org/arf/en/login/?next=/arf/en/",
     "category": "author",
     "tags": [
