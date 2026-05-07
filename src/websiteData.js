@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/7 08:57:43
+// 网站数据 - 通过管理后台更新于 2026/5/7 08:59:58
 
 // 站点配置
 export const siteConfig = {
@@ -183,6 +183,17 @@ export const websiteData = [
       "工具"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=baidu.com"
+  },
+  {
+    "id": 1778115590723,
+    "name": "Eu.org",
+    "description": "免费域名",
+    "url": "https://nic.eu.org/arf/en/login/?next=/arf/en/",
+    "category": "author",
+    "tags": [
+      "域名"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=nic.eu.org"
   },
   {
     "id": 1778059211933,
