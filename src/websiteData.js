@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/7 09:07:13
+// 网站数据 - 通过管理后台更新于 2026/5/7 09:33:36
 
 // 站点配置
 export const siteConfig = {
@@ -479,7 +479,7 @@ export const categories = [
   {
     "id": "category_1778057329300",
     "name": "Private Tracker",
-    "icon": "/assets/digg_icon-icons.com_75645.png",
+    "icon": "/assets/PT.png",
     "special": false,
     "subcategories": []
   }
