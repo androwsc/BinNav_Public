@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/7 09:59:41
+// 网站数据 - 通过管理后台更新于 2026/5/7 10:03:30
 
 // 站点配置
 export const siteConfig = {
@@ -205,6 +205,30 @@ export const websiteData = [
       "工具"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=app.netlify.com"
+  },
+  {
+    "id": 1778119297325,
+    "name": "icon-icons",
+    "description": "Icon-Icons 是一个完全专注于图标的网站。",
+    "url": "https://icon-icons.com/zh/",
+    "category": "author",
+    "tags": [
+      "图标",
+      "免费"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=icon-icons.com"
+  },
+  {
+    "id": 1778119373362,
+    "name": "Mocreak",
+    "description": "Mocreak是一款专为简化Microsoft Office下载、安装和部署流程而设计的免费办公增强工具。",
+    "url": "https://www.mocreak.com/download.html",
+    "category": "author",
+    "tags": [
+      "工具",
+      "免费"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.mocreak.com"
   },
   {
     "id": 1778059211933,
