@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/7 10:14:47
+// 网站数据 - 通过管理后台更新于 2026/5/7 13:33:57
 
 // 站点配置
 export const siteConfig = {
@@ -230,6 +230,18 @@ export const websiteData = [
       "免费"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.mocreak.com"
+  },
+  {
+    "id": 1778132023029,
+    "name": "Dnshe",
+    "description": "DNSHE 是一个面向开发者、学生和开源爱好者的永久免费域名注册与 DNS 服务平台。",
+    "url": "https://my.dnshe.com/index.php?m=domain_hub",
+    "category": "author",
+    "tags": [
+      "域名",
+      "免费"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=my.dnshe.com"
   },
   {
     "id": 1778059211933,
