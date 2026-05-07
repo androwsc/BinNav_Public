@@ -245,7 +245,7 @@ function HomePage() {
                     className="flex items-center p-3 bg-gray-50 hover:bg-gray-100 rounded-lg transition-colors group w-full"
                   >
                     <div className="w-8 h-8 bg-green-100 rounded-lg flex items-center justify-center mr-3">
-                      <span className="text-green-600 text-sm">🛜</span>
+                      <span className="text-green-600 text-sm">📇</span>
                     </div>
                     <div className="text-left">
                       <div className="text-sm font-medium text-gray-900 group-hover:text-green-600">New Website</div>
