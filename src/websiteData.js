@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/7 10:03:30
+// 网站数据 - 通过管理后台更新于 2026/5/7 10:04:51
 
 // 站点配置
 export const siteConfig = {
@@ -79,14 +79,15 @@ export const websiteData = [
     "url": "https://dashboard.uptimerobot.com/monitors",
     "category": "author",
     "tags": [
-      "工具，免费"
+      "工具",
+      "免费"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=dashboard.uptimerobot.com"
   },
   {
     "id": 1778056306712,
     "name": "Hidencloud",
-    "description": "喜欢\n\n不喜欢\nHidenCloud 是一个综合性的平台，专注于为游戏爱好者和社区创作者提供高性能的游戏服务器托管服务。",
+    "description": "HidenCloud 是一个综合性的平台，专注于为游戏爱好者和社区创作者提供高性能的游戏服务器托管服务。",
     "url": "https://dash.hidencloud.com/service/207468/manage",
     "category": "author",
     "tags": [
