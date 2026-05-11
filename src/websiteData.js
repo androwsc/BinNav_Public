@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/7 18:44:40
+// 网站数据 - 通过管理后台更新于 2026/5/11 19:43:56
 
 // 站点配置
 export const siteConfig = {
@@ -348,8 +348,8 @@ export const websiteData = [
   },
   {
     "id": 1778059456334,
-    "name": "DS Audio",
-    "description": "",
+    "name": "Emby",
+    "description": "群晖Emby服务器",
     "url": "https://yinyue.cc.cd",
     "category": "dev_tools",
     "tags": [
@@ -572,5 +572,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-05-07"
+  lastUpdated: "2026-05-11"
 };
