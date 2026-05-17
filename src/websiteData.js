@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/12 23:20:41
+// 网站数据 - 通过管理后台更新于 2026/5/17 22:57:06
 
 // 站点配置
 export const siteConfig = {
@@ -303,12 +303,12 @@ export const websiteData = [
     "id": 1778058512044,
     "name": "Omnibox",
     "description": "支持 Docker 一键部署的全聚合家庭影视系统。",
-    "url": "https://omnibox.naschina.ddns-ip.net",
+    "url": "https://omnibox.qzz.io",
     "category": "category_1778058003813",
     "tags": [
       "影视"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=omnibox.naschina.ddns-ip.net"
+    "icon": "https://icon.nbvil.com/favicon?url=omnibox.qzz.io"
   },
   {
     "id": 1778057185358,
@@ -572,5 +572,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-05-12"
+  lastUpdated: "2026-05-17"
 };
