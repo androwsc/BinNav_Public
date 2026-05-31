@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/5/17 23:09:29
+// 网站数据 - 通过管理后台更新于 2026/6/1 00:48:54
 
 // 站点配置
 export const siteConfig = {
@@ -303,24 +303,24 @@ export const websiteData = [
     "id": 1778058512044,
     "name": "Omnibox",
     "description": "支持 Docker 一键部署的全聚合家庭影视系统。",
-    "url": "https://omnibox.qzz.io",
+    "url": "http://omnibox.qzz.io:2095",
     "category": "category_1778058003813",
     "tags": [
       "影视"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=omnibox.qzz.io"
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1778057185358,
-    "name": "飞牛WYSE3040",
+    "name": "飞牛i5-3470",
     "description": "飞牛NAS",
-    "url": "http://100.66.66.30",
+    "url": "http://100.66.66.34",
     "category": "recommended",
     "tags": [
       "NAS",
       "内网"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.30"
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1778057083777,
@@ -335,6 +335,18 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=100.66.66.70"
   },
   {
+    "id": 1778059456334,
+    "name": "道理鱼音乐",
+    "description": "道理鱼音乐服务器",
+    "url": "http://100.66.66.34:4000",
+    "category": "recommended",
+    "tags": [
+      "NAS",
+      "音乐"
+    ],
+    "icon": "/assets/logo.png"
+  },
+  {
     "id": 1778056992443,
     "name": "Synology NAS",
     "description": "群晖内网服务",
@@ -345,18 +357,6 @@ export const websiteData = [
       "内网"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=100.66.66.9"
-  },
-  {
-    "id": 1778059456334,
-    "name": "DS Audio",
-    "description": "群晖音乐服务器",
-    "url": "https://yinyue.cc.cd",
-    "category": "dev_tools",
-    "tags": [
-      "NAS",
-      "音乐"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=yinyue.cc.cd"
   },
   {
     "id": 1778057565197,
@@ -572,5 +572,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-05-17"
+  lastUpdated: "2026-05-31"
 };
