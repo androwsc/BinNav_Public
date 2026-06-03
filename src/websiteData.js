@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/6/1 00:48:54
+// 网站数据 - 通过管理后台更新于 2026/6/3 18:34:36
 
 // 站点配置
 export const siteConfig = {
@@ -242,6 +242,18 @@ export const websiteData = [
       "免费"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.mocreak.com"
+  },
+  {
+    "id": 1780482872062,
+    "name": "dcdeploy",
+    "description": "免费法国容器 dcdeploy",
+    "url": "https://dash.dcdeploy.com",
+    "category": "author",
+    "tags": [
+      "免费",
+      "VPS"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=dash.dcdeploy.com"
   },
   {
     "id": 1778059211933,
@@ -572,5 +584,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-05-31"
+  lastUpdated: "2026-06-03"
 };
