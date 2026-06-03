@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/6/3 18:34:36
+// 网站数据 - 通过管理后台更新于 2026/6/3 18:37:46
 
 // 站点配置
 export const siteConfig = {
@@ -350,7 +350,7 @@ export const websiteData = [
     "id": 1778059456334,
     "name": "道理鱼音乐",
     "description": "道理鱼音乐服务器",
-    "url": "http://100.66.66.34:4000",
+    "url": "http://100.66.66.70:2086",
     "category": "recommended",
     "tags": [
       "NAS",
