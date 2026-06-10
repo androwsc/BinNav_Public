@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/6/10 18:33:50
+// 网站数据 - 通过管理后台更新于 2026/6/10 18:34:48
 
 // 站点配置
 export const siteConfig = {
@@ -47,17 +47,6 @@ export const websiteData = [
       "内网穿透"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=login.tailscale.com"
-  },
-  {
-    "id": 1778056105636,
-    "name": "Edgetunnel",
-    "description": "edgetunnel 是一个基于 CF Workers/Pages 平台的边缘计算隧道解密方案。它能够高效地处理网络流量，并提供强大的管理面板和灵活的节点配置能力。",
-    "url": "https://hop.hop.qzz.io/admin",
-    "category": "author",
-    "tags": [
-      "隧道"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=qzz.io"
   },
   {
     "id": 1778056182042,
@@ -332,7 +321,7 @@ export const websiteData = [
     "tags": [
       "影视"
     ],
-    "icon": "/assets/logo.png"
+    "icon": "https://icon.nbvil.com/favicon?url=omnibox.qzz.io"
   },
   {
     "id": 1778057185358,
