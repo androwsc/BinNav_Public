@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/6/3 18:37:46
+// 网站数据 - 通过管理后台更新于 2026/6/10 18:33:50
 
 // 站点配置
 export const siteConfig = {
@@ -254,6 +254,18 @@ export const websiteData = [
       "VPS"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=dash.dcdeploy.com"
+  },
+  {
+    "id": 1781087601710,
+    "name": "KataBump",
+    "description": "",
+    "url": "https://dashboard.katabump.com/domains/",
+    "category": "author",
+    "tags": [
+      "域名",
+      "VPS"
+    ],
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1778059211933,
@@ -584,5 +596,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-06-03"
+  lastUpdated: "2026-06-10"
 };
