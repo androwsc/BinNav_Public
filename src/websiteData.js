@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/6/13 16:02:55
+// 网站数据 - 通过管理后台更新于 2026/6/13 16:03:34
 
 // 站点配置
 export const siteConfig = {
@@ -372,7 +372,7 @@ export const websiteData = [
   {
     "id": 1781337706670,
     "name": "qBittorrent",
-    "description": "ing-3470，下载",
+    "description": "i5-3470，下载",
     "url": "https://bt.nascn.kdns.fr",
     "category": "recommended",
     "tags": [
