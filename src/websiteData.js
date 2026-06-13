@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/6/13 15:58:38
+// 网站数据 - 通过管理后台更新于 2026/6/13 16:02:55
 
 // 站点配置
 export const siteConfig = {
@@ -358,6 +358,30 @@ export const websiteData = [
     "icon": "/assets/logo.png"
   },
   {
+    "id": 1781337635708,
+    "name": "qBittorrent",
+    "description": "DELL7060，下载",
+    "url": "https://bt.870627.xyz:2096",
+    "category": "recommended",
+    "tags": [
+      "NAS",
+      "下载"
+    ],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1781337706670,
+    "name": "qBittorrent",
+    "description": "ing-3470，下载",
+    "url": "https://bt.nascn.kdns.fr",
+    "category": "recommended",
+    "tags": [
+      "NAS",
+      "下载"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=bt.nascn.kdns.fr"
+  },
+  {
     "id": 1778056992443,
     "name": "Synology NAS",
     "description": "群晖",
@@ -365,6 +389,18 @@ export const websiteData = [
     "category": "dev_tools",
     "tags": [
       "NAS"
+    ],
+    "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1781337771270,
+    "name": "DS Audio",
+    "description": "群晖音乐服务器",
+    "url": "https://music.naschina.us.ci:2096",
+    "category": "dev_tools",
+    "tags": [
+      "NAS",
+      "音乐"
     ],
     "icon": "/assets/logo.png"
   },
