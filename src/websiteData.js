@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/6/13 16:14:31
+// 网站数据 - 通过管理后台更新于 2026/6/13 18:28:50
 
 // 站点配置
 export const siteConfig = {
@@ -267,6 +267,18 @@ export const websiteData = [
       "音乐"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.hifiti.com"
+  },
+  {
+    "id": 1781346520324,
+    "name": "GD音乐台",
+    "description": "GD音乐台，复活！前段时间本站被腾讯盯上，经过一番整改后重新上线，以下是正确食用方式：\n1. 国际版(music.gdstudio.xyz)不受影响，所有功能均保留，国内用户使用需挂梯子。\n2. 国内版(music.gdstudio.org)下架所有腾讯系音乐源，包括QQ、酷我、JOOX。\n3. 卡Bug秘籍：国内版选择标红的音乐源，搜索栏输入“GDSTUDIO”并点提交，网站会神奇地变成国际版。此Bug仅供学习使用，严禁外传！！！",
+    "url": "https://music.gdstudio.org/",
+    "category": "author",
+    "tags": [
+      "免费",
+      "音乐"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=music.gdstudio.org"
   },
   {
     "id": 1778059211933,
