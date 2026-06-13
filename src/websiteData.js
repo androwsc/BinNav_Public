@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/6/13 16:03:52
+// 网站数据 - 通过管理后台更新于 2026/6/13 16:08:40
 
 // 站点配置
 export const siteConfig = {
@@ -206,7 +206,7 @@ export const websiteData = [
     "tags": [
       "工具"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=baidu.com"
+    "icon": "https://icon.nbvil.com/favicon?url=baijiahao.baidu.com"
   },
   {
     "id": 1778119297325,
@@ -255,6 +255,18 @@ export const websiteData = [
       "VPS"
     ],
     "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1781338009617,
+    "name": "音乐磁场",
+    "description": "音乐磁场，免费无损音乐下载",
+    "url": "https://www.hifiti.com/",
+    "category": "author",
+    "tags": [
+      "免费",
+      "音乐"
+    ],
+    "icon": "https://icon.nbvil.com/favicon?url=www.hifiti.com"
   },
   {
     "id": 1778059211933,
