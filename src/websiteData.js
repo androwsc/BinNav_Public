@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/6/13 16:08:40
+// 网站数据 - 通过管理后台更新于 2026/6/13 16:14:31
 
 // 站点配置
 export const siteConfig = {
@@ -248,7 +248,7 @@ export const websiteData = [
     "id": 1781087601710,
     "name": "KataBump",
     "description": "",
-    "url": "https://dashboard.katabump.com/domains/",
+    "url": "https://dashboard.katabump.com/",
     "category": "author",
     "tags": [
       "域名",
