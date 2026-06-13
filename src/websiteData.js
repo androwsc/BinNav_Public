@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/6/10 18:34:48
+// 网站数据 - 通过管理后台更新于 2026/6/13 15:58:38
 
 // 站点配置
 export const siteConfig = {
@@ -260,12 +260,12 @@ export const websiteData = [
     "id": 1778059211933,
     "name": "MoviePilot",
     "description": "MoviePilot是一款开源的NAS媒体库自动化管理工具，可实现电影和电视剧的自动搜索、下载、整理和管理。",
-    "url": "https://mp.naschina.ddns-ip.net",
+    "url": "https://mp.870627.xyz:2096",
     "category": "category_1778058003813",
     "tags": [
       "影视"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=mp.naschina.ddns-ip.net"
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1778058551593,
@@ -316,42 +316,40 @@ export const websiteData = [
     "id": 1778058512044,
     "name": "Omnibox",
     "description": "支持 Docker 一键部署的全聚合家庭影视系统。",
-    "url": "http://omnibox.qzz.io:2095",
+    "url": "http://omnibox.870627.xyz:2096",
     "category": "category_1778058003813",
     "tags": [
       "影视"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=omnibox.qzz.io"
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1778057185358,
     "name": "飞牛i5-3470",
     "description": "飞牛NAS",
-    "url": "http://100.66.66.34",
+    "url": "https://3470.nascn.kdns.fr",
     "category": "recommended",
     "tags": [
-      "NAS",
-      "内网"
+      "NAS"
     ],
-    "icon": "/assets/logo.png"
+    "icon": "https://icon.nbvil.com/favicon?url=3470.nascn.kdns.fr"
   },
   {
     "id": 1778057083777,
     "name": "飞牛DELL7060",
     "description": "飞牛NAS",
-    "url": "http://100.66.66.70",
+    "url": "https://fnos.870627.xyz:2096",
     "category": "recommended",
     "tags": [
-      "NAS",
-      "内网"
+      "NAS"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.70"
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1778059456334,
     "name": "道理鱼音乐",
     "description": "道理鱼音乐服务器",
-    "url": "http://100.66.66.70:2086",
+    "url": "https://music.870627.xyz:2096",
     "category": "recommended",
     "tags": [
       "NAS",
@@ -362,14 +360,13 @@ export const websiteData = [
   {
     "id": 1778056992443,
     "name": "Synology NAS",
-    "description": "群晖内网服务",
-    "url": "http://100.66.66.9:5000",
+    "description": "群晖",
+    "url": "https://nas.naschina.us.ci:2096",
     "category": "dev_tools",
     "tags": [
-      "NAS",
-      "内网"
+      "NAS"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=100.66.66.9"
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1778057565197,
@@ -585,5 +582,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-06-10"
+  lastUpdated: "2026-06-13"
 };
