@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/6/13 18:28:50
+// 网站数据 - 通过管理后台更新于 2026/9/8 19:04:13
 
 // 站点配置
 export const siteConfig = {
@@ -62,18 +62,6 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=huggingface.co"
   },
   {
-    "id": 1778056259882,
-    "name": "Uptimerobot",
-    "description": "UptimeRobot是一款国外知名的在线网站和服务器监控工具，用于实时监控服务可用性并在异常时发送告警通知。",
-    "url": "https://dashboard.uptimerobot.com/monitors",
-    "category": "author",
-    "tags": [
-      "工具",
-      "免费"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=dashboard.uptimerobot.com"
-  },
-  {
     "id": 1778056306712,
     "name": "Hidencloud",
     "description": "HidenCloud 是一个综合性的平台，专注于为游戏爱好者和社区创作者提供高性能的游戏服务器托管服务。",
@@ -83,18 +71,6 @@ export const websiteData = [
       "VPS"
     ],
     "icon": "/assets/logo.png"
-  },
-  {
-    "id": 1778056582930,
-    "name": "吾爱破解",
-    "description": "吾爱破解论坛（英文名：Love Crack Group，简称LCG）创立于2008年3月13日，是一个专注于软件安全与病毒分析的技术交流社区，涵盖PC软件安全、移动安全等领域，由软件加密解密及反病毒爱好者共同维护。",
-    "url": "https://www.52pojie.cn/portal.php",
-    "category": "author",
-    "tags": [
-      "工具",
-      "免费"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.52pojie.cn"
   },
   {
     "id": 1751807806262,
@@ -642,5 +618,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-06-13"
+  lastUpdated: "2026-09-08"
 };
