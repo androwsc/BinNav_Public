@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/9/8 19:04:13
+// 网站数据 - 通过管理后台更新于 2026/11/3 20:09:23
 
 // 站点配置
 export const siteConfig = {
@@ -60,17 +60,6 @@ export const websiteData = [
       "免费"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=huggingface.co"
-  },
-  {
-    "id": 1778056306712,
-    "name": "Hidencloud",
-    "description": "HidenCloud 是一个综合性的平台，专注于为游戏爱好者和社区创作者提供高性能的游戏服务器托管服务。",
-    "url": "https://dash.hidencloud.com/service/207468/manage",
-    "category": "author",
-    "tags": [
-      "VPS"
-    ],
-    "icon": "/assets/logo.png"
   },
   {
     "id": 1751807806262,
@@ -209,18 +198,6 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=www.mocreak.com"
   },
   {
-    "id": 1780482872062,
-    "name": "dcdeploy",
-    "description": "免费法国容器 dcdeploy",
-    "url": "https://dash.dcdeploy.com",
-    "category": "author",
-    "tags": [
-      "免费",
-      "VPS"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=dash.dcdeploy.com"
-  },
-  {
     "id": 1781087601710,
     "name": "KataBump",
     "description": "",
@@ -257,50 +234,6 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=music.gdstudio.org"
   },
   {
-    "id": 1778059211933,
-    "name": "MoviePilot",
-    "description": "MoviePilot是一款开源的NAS媒体库自动化管理工具，可实现电影和电视剧的自动搜索、下载、整理和管理。",
-    "url": "https://mp.870627.xyz:2096",
-    "category": "category_1778058003813",
-    "tags": [
-      "影视"
-    ],
-    "icon": "/assets/logo.png"
-  },
-  {
-    "id": 1778058551593,
-    "name": "弹幕",
-    "description": "部署平台Netlify",
-    "url": "https://danmu.iptv.us.kg",
-    "category": "category_1778058003813",
-    "tags": [
-      "弹幕"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=danmu.iptv.us.kg"
-  },
-  {
-    "id": 1778058319856,
-    "name": "drpyS",
-    "description": "部署平台Vercel",
-    "url": "https://drpy.iptv.us.kg",
-    "category": "category_1778058003813",
-    "tags": [
-      "影视"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=drpy.iptv.us.kg"
-  },
-  {
-    "id": 1778058359646,
-    "name": "Lunatv",
-    "description": "部署平台Huggingface",
-    "url": "https://tv.870627.xyz",
-    "category": "category_1778058003813",
-    "tags": [
-      "影视"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=tv.870627.xyz"
-  },
-  {
     "id": 1778058466674,
     "name": "Tmdb-Proxy",
     "description": "部署平台Vercel",
@@ -327,12 +260,12 @@ export const websiteData = [
     "id": 1778057185358,
     "name": "飞牛i5-3470",
     "description": "飞牛NAS",
-    "url": "https://3470.nascn.kdns.fr",
+    "url": "http://100.66.66.34",
     "category": "recommended",
     "tags": [
       "NAS"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=3470.nascn.kdns.fr"
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1778057083777,
@@ -342,18 +275,6 @@ export const websiteData = [
     "category": "recommended",
     "tags": [
       "NAS"
-    ],
-    "icon": "/assets/logo.png"
-  },
-  {
-    "id": 1778059456334,
-    "name": "道理鱼音乐",
-    "description": "道理鱼音乐服务器",
-    "url": "https://music.870627.xyz:2096",
-    "category": "recommended",
-    "tags": [
-      "NAS",
-      "音乐"
     ],
     "icon": "/assets/logo.png"
   },
@@ -383,10 +304,10 @@ export const websiteData = [
   },
   {
     "id": 1778056992443,
-    "name": "Synology NAS",
+    "name": "FnOS",
     "description": "群晖",
-    "url": "https://nas.naschina.us.ci:2096",
-    "category": "dev_tools",
+    "url": "http://100.66.66.69",
+    "category": "recommended",
     "tags": [
       "NAS"
     ],
@@ -618,5 +539,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-09-08"
+  lastUpdated: "2026-11-03"
 };
