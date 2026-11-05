@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/11/3 20:09:23
+// 网站数据 - 通过管理后台更新于 2026/11/5 11:42:32
 
 // 站点配置
 export const siteConfig = {
@@ -247,9 +247,9 @@ export const websiteData = [
   },
   {
     "id": 1778058512044,
-    "name": "Omnibox",
+    "name": "MorePlay",
     "description": "支持 Docker 一键部署的全聚合家庭影视系统。",
-    "url": "http://omnibox.870627.xyz:2096",
+    "url": "http://100.66.66.70:2233",
     "category": "category_1778058003813",
     "tags": [
       "影视"
@@ -282,7 +282,7 @@ export const websiteData = [
     "id": 1781337635708,
     "name": "qBittorrent",
     "description": "DELL7060，下载",
-    "url": "https://bt.870627.xyz:2096",
+    "url": "https://100.66.66.70:8085",
     "category": "recommended",
     "tags": [
       "NAS",
@@ -294,19 +294,19 @@ export const websiteData = [
     "id": 1781337706670,
     "name": "qBittorrent",
     "description": "i5-3470，下载",
-    "url": "https://bt.nascn.kdns.fr",
+    "url": "http://100.66.66.34:8085",
     "category": "recommended",
     "tags": [
       "NAS",
       "下载"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=bt.nascn.kdns.fr"
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1778056992443,
-    "name": "FnOS",
-    "description": "群晖",
-    "url": "http://100.66.66.69",
+    "name": "OECT",
+    "description": "飞牛NAS",
+    "url": "http://100.66.66.9",
     "category": "recommended",
     "tags": [
       "NAS"
@@ -486,8 +486,8 @@ export const categories = [
   },
   {
     "id": "dev_tools",
-    "name": "Synology",
-    "icon": "/assets/IMG_0031.png",
+    "name": "HuggingFace",
+    "icon": "/assets/10022huggingface_110042.png",
     "special": false,
     "subcategories": []
   },
@@ -539,5 +539,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-11-03"
+  lastUpdated: "2026-11-05"
 };
