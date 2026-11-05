@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/11/5 11:42:32
+// 网站数据 - 通过管理后台更新于 2026/11/5 11:44:09
 
 // 站点配置
 export const siteConfig = {
@@ -257,6 +257,17 @@ export const websiteData = [
     "icon": "/assets/logo.png"
   },
   {
+    "id": 1778056992443,
+    "name": "OECT",
+    "description": "飞牛NAS",
+    "url": "http://100.66.66.9",
+    "category": "recommended",
+    "tags": [
+      "NAS"
+    ],
+    "icon": "/assets/logo.png"
+  },
+  {
     "id": 1778057185358,
     "name": "飞牛i5-3470",
     "description": "飞牛NAS",
@@ -299,17 +310,6 @@ export const websiteData = [
     "tags": [
       "NAS",
       "下载"
-    ],
-    "icon": "/assets/logo.png"
-  },
-  {
-    "id": 1778056992443,
-    "name": "OECT",
-    "description": "飞牛NAS",
-    "url": "http://100.66.66.9",
-    "category": "recommended",
-    "tags": [
-      "NAS"
     ],
     "icon": "/assets/logo.png"
   },
