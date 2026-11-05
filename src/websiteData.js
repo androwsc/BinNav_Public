@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/11/5 11:44:09
+// 网站数据 - 通过管理后台更新于 2026/11/5 11:52:16
 
 // 站点配置
 export const siteConfig = {
@@ -315,13 +315,13 @@ export const websiteData = [
   },
   {
     "id": 1781337771270,
-    "name": "DS Audio",
-    "description": "群晖音乐服务器",
-    "url": "https://music.naschina.us.ci:2096",
+    "name": "猫源",
+    "description": "豆儿猫源",
+    "url": "https://catpaw.iptv.us.kg",
     "category": "dev_tools",
     "tags": [
-      "NAS",
-      "音乐"
+      "Huggingface",
+      "Catpaw"
     ],
     "icon": "/assets/logo.png"
   },
@@ -486,8 +486,8 @@ export const categories = [
   },
   {
     "id": "dev_tools",
-    "name": "HuggingFace",
-    "icon": "/assets/10022huggingface_110042.png",
+    "name": "Other",
+    "icon": "/assets/cdock_macos_bigsur_icon_189516.png",
     "special": false,
     "subcategories": []
   },
