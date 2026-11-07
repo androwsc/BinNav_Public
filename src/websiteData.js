@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/11/7 16:46:52
+// 网站数据 - 通过管理后台更新于 2026/11/7 16:47:03
 
 // 站点配置
 export const siteConfig = {
@@ -27,7 +27,7 @@ export const websiteData = [
     "id": 1751617129171,
     "name": "Cloudflare",
     "description": "Cloudflare以向客户提供网站安全管理、性能优化及相关的技术支持为主要业务。",
-    "url": "https://www.cloudflare.com/",
+    "url": "https://dash.cloudflare.com/login",
     "category": "author",
     "tags": [
       "免费",
@@ -35,7 +35,7 @@ export const websiteData = [
       "CDN",
       "DDOS"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.cloudflare.com"
+    "icon": "https://icon.nbvil.com/favicon?url=dash.cloudflare.com"
   },
   {
     "id": 1778055885734,
