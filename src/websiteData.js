@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/11/5 11:52:37
+// 网站数据 - 通过管理后台更新于 2026/11/7 12:24:40
 
 // 站点配置
 export const siteConfig = {
@@ -282,7 +282,7 @@ export const websiteData = [
     "id": 1778057083777,
     "name": "飞牛DELL7060",
     "description": "飞牛NAS",
-    "url": "https://fnos.870627.xyz:2096",
+    "url": "http://100.66.66.70",
     "category": "recommended",
     "tags": [
       "NAS"
@@ -539,5 +539,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-11-05"
+  lastUpdated: "2026-11-07"
 };
