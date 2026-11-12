@@ -1,11 +1,11 @@
-// 网站数据 - 通过管理后台更新于 2026/11/7 16:47:03
+// 网站数据 - 通过管理后台更新于 2026/11/12 16:52:51
 
 // 站点配置
 export const siteConfig = {
-  "siteName": "Modej Website Nav",
-  "siteTitle": "Modej Website Nav",
+  "siteName": "MODEJ",
+  "siteTitle": "MODEJ - 导航",
   "siteLogo": "/assets/logo.png",
-  "siteDescription": "Modej Website Nav",
+  "siteDescription": "MODEJ导航页面",
   "icpRecord": "",
   "publicSecurityRecord": "",
   "publicSecurityRecordUrl": ""
@@ -485,16 +485,16 @@ export const categories = [
     "subcategories": []
   },
   {
-    "id": "dev_tools",
-    "name": "Other",
-    "icon": "/assets/cdock_macos_bigsur_icon_189516.png",
+    "id": "category_1778057329300",
+    "name": "Private Tracker",
+    "icon": "/assets/PT.png",
     "special": false,
     "subcategories": []
   },
   {
-    "id": "category_1778057329300",
-    "name": "Private Tracker",
-    "icon": "/assets/PT.png",
+    "id": "dev_tools",
+    "name": "Other",
+    "icon": "/assets/cdock_macos_bigsur_icon_189516.png",
     "special": false,
     "subcategories": []
   }
@@ -539,5 +539,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-11-07"
+  lastUpdated: "2026-11-12"
 };
