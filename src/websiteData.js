@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/11/12 17:06:31
+// 网站数据 - 通过管理后台更新于 2026/11/12 17:27:57
 
 // 站点配置
 export const siteConfig = {
@@ -380,28 +380,6 @@ export const websiteData = [
     "icon": "https://icon.nbvil.com/favicon?url=pt.0ff.cc"
   },
   {
-    "id": 1778057679071,
-    "name": "劳改所",
-    "description": "",
-    "url": "https://ptlgs.org/",
-    "category": "category_1778057329300",
-    "tags": [
-      "PT"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=ptlgs.org"
-  },
-  {
-    "id": 1778057715089,
-    "name": "雨",
-    "description": "",
-    "url": "https://raingfh.top/",
-    "category": "category_1778057329300",
-    "tags": [
-      "PT"
-    ],
-    "icon": "https://icon.nbvil.com/favicon?url=raingfh.top"
-  },
-  {
     "id": 1778057769620,
     "name": "PT时间",
     "description": "",
@@ -446,18 +424,6 @@ export const websiteData = [
       "论坛"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.javbus.com"
-  },
-  {
-    "id": 1781337771270,
-    "name": "猫源",
-    "description": "豆儿猫源",
-    "url": "https://catpaw.iptv.us.kg",
-    "category": "dev_tools",
-    "tags": [
-      "Huggingface",
-      "Catpaw"
-    ],
-    "icon": "/assets/logo.png"
   }
 ];
 
