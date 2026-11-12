@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/11/12 17:06:04
+// 网站数据 - 通过管理后台更新于 2026/11/12 17:06:31
 
 // 站点配置
 export const siteConfig = {
@@ -293,7 +293,7 @@ export const websiteData = [
     "id": 1781337635708,
     "name": "qBittorrent",
     "description": "DELL7060，下载",
-    "url": "https://100.66.66.70:8085",
+    "url": "http://100.66.66.70:8085",
     "category": "recommended",
     "tags": [
       "NAS",
@@ -310,18 +310,6 @@ export const websiteData = [
     "tags": [
       "NAS",
       "下载"
-    ],
-    "icon": "/assets/logo.png"
-  },
-  {
-    "id": 1781337771270,
-    "name": "猫源",
-    "description": "豆儿猫源",
-    "url": "https://catpaw.iptv.us.kg",
-    "category": "dev_tools",
-    "tags": [
-      "Huggingface",
-      "Catpaw"
     ],
     "icon": "/assets/logo.png"
   },
@@ -458,6 +446,18 @@ export const websiteData = [
       "论坛"
     ],
     "icon": "https://icon.nbvil.com/favicon?url=www.javbus.com"
+  },
+  {
+    "id": 1781337771270,
+    "name": "猫源",
+    "description": "豆儿猫源",
+    "url": "https://catpaw.iptv.us.kg",
+    "category": "dev_tools",
+    "tags": [
+      "Huggingface",
+      "Catpaw"
+    ],
+    "icon": "/assets/logo.png"
   }
 ];
 
