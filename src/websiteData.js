@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/11/12 17:27:57
+// 网站数据 - 通过管理后台更新于 2026/11/17 16:34:22
 
 // 站点配置
 export const siteConfig = {
@@ -249,7 +249,7 @@ export const websiteData = [
     "id": 1778058512044,
     "name": "MorePlay",
     "description": "支持 Docker 一键部署的全聚合家庭影视系统。",
-    "url": "http://100.66.66.70:2233",
+    "url": "http://100.66.66.9:2233",
     "category": "category_1778058003813",
     "tags": [
       "影视"
@@ -505,5 +505,5 @@ export const siteStats = {
   totalSites: websiteData.length,
   totalCategories: categories.length,
   totalTags: [...new Set(websiteData.flatMap(site => site.tags || []))].length,
-  lastUpdated: "2026-11-12"
+  lastUpdated: "2026-11-17"
 };
